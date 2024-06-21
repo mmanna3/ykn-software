@@ -7,7 +7,7 @@ function App() {
     return (
         <>
             <div className="w-full font-montserrat">
-                <div className="absolute">
+                <div className="absolute hidden md:block">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="604"
