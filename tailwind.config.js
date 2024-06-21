@@ -4,6 +4,7 @@ export default {
     theme: {
         fontFamily: {
             roboto: ['Roboto', 'sans-serif'],
+            anonymouspro: ['Anonymous Pro', 'arial'],
         },
         extend: { colors: {} },
     },
