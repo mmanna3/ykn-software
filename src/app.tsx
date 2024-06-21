@@ -6,7 +6,7 @@ import SeccionPrincipal from './seccion-principal';
 function App() {
     return (
         <>
-            <div className="w-full font-roboto">
+            <div className="w-full font-montserrat">
                 <div className="absolute">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"

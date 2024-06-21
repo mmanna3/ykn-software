@@ -5,6 +5,7 @@ export default {
         fontFamily: {
             roboto: ['Roboto', 'sans-serif'],
             anonymouspro: ['Anonymous Pro', 'arial'],
+            montserrat: ['Montserrat', 'sans-serif'],
         },
         extend: { colors: {} },
     },
