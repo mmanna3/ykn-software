@@ -2,7 +2,7 @@ import Caja from './assets/caja.svg';
 
 export default function SeccionPrincipal() {
     return (
-        <div className="mx-24 my-12 flex h-[100%] flex-col items-center gap-8 text-left md:my-0 md:flex-row md:gap-32 md:text-center lg:gap-48 xl:mx-56">
+        <div className="mx-16 my-12 flex h-[100%] flex-col items-center gap-8 text-left md:my-0 md:flex-row md:gap-32 md:text-center lg:gap-48 xl:mx-56">
             <div>
                 <h1 className="md:align-left mb-8 w-full text-wrap text-left text-4xl font-bold leading-tight tracking-wide text-[#7E27A3]">
                     Software Boutique a tu medida
